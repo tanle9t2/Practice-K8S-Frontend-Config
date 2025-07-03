@@ -3,7 +3,7 @@ appName: react-frontend
 namespace: dev
 image:
   name: tanle92/react-app
-  tag: main-13994e9
+  tag: main-1b1b37c
 
 service:
   ports:
